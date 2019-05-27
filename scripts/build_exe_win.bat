@@ -1,0 +1,1 @@
+venv\Scripts\activate.bat && cd src && pyinstaller -w -F -c --noconsole -n Symulator_APSK main.py
